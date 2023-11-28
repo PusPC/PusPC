@@ -1,6 +1,9 @@
 <p>Hi 👋, Im the creator(owner) of the project called PusPC.</p>
+
 <p>What is PusPC?</p>
+
 <p>Its a project created by me. Its not only a single tool, because it's a project with multiple tools. More coming soon.</p>
+
 <p>Tools like: Windows 10 ACTIVATOR,</p>
 <p>Windows 10 Debloater and speedup tool,</p>
 <p>Image size reducer,</p>
