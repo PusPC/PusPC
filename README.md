@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)Im the creator(owner) of the project called PusPC.
+<b>Hi 👋, Im the creator(owner) of the project called PusPC.</b>
 <b>What is PusPC?</b>
 <b>Its a project created by me. Its not only a single tool, because it's a project with multiple tools. More coming soon.</b>
 <b>Tools like: Windows 10 ACTIVATOR,</b>
